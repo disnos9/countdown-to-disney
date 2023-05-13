@@ -1,2 +1,5 @@
-# countdown-to-disney
-Countdown until my family goes to Disney.
+# Countdown to Disney
+This is a countdown.
+
+## Changelog
+v1.0 - Countdown to Disney
